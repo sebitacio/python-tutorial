@@ -1,0 +1,222 @@
+{
+  "pechuga de pollo": {
+    "Gondola": 4,
+    "Nodo": 2,
+    "Cantidad": 14
+  },
+  "Pechuga de pavo": {
+    "Gondola": 2,
+    "Nodo": 4,
+    "Cantidad": 12
+  },
+  "Atun": {
+    "Gondola": 4,
+    "Nodo": 7,
+    "Cantidad": 5
+  },
+  "Salmon": {
+    "Gondola": 1,
+    "Nodo": 17,
+    "Cantidad": 4
+  },
+  "Carne magra": {
+    "Gondola": 1,
+    "Nodo": 19,
+    "Cantidad": 18
+  },
+  "Huevos": {
+    "Gondola": 6,
+    "Nodo": 13,
+    "Cantidad": 2
+  },
+  "Manzana": {
+    "Gondola": 6,
+    "Nodo": 12,
+    "Cantidad": 12
+  },
+  "Fresa": {
+    "Gondola": 1,
+    "Nodo": 17,
+    "Cantidad": 3
+  },
+  "Limon": {
+    "Gondola": 0,
+    "Nodo": 17,
+    "Cantidad": 7
+  },
+  "Mora": {
+    "Gondola": 4,
+    "Nodo": 0,
+    "Cantidad": 14
+  },
+  "Kiwi": {
+    "Gondola": 4,
+    "Nodo": 7,
+    "Cantidad": 9
+  },
+  "Pera": {
+    "Gondola": 0,
+    "Nodo": 17,
+    "Cantidad": 20
+  },
+  "Banano": {
+    "Gondola": 2,
+    "Nodo": 4,
+    "Cantidad": 12
+  },
+  "Mantequilla de mani": {
+    "Gondola": 1,
+    "Nodo": 19,
+    "Cantidad": 19
+  },
+  "Aceite de oliva": {
+    "Gondola": 3,
+    "Nodo": 18,
+    "Cantidad": 18
+  },
+  "Yogurt griego": {
+    "Gondola": 0,
+    "Nodo": 16,
+    "Cantidad": 6
+  },
+  "Pan integral": {
+    "Gondola": 2,
+    "Nodo": 5,
+    "Cantidad": 10
+  },
+  "Lechuga": {
+    "Gondola": 6,
+    "Nodo": 22,
+    "Cantidad": 9
+  },
+  "Brocoli": {
+    "Gondola": 1,
+    "Nodo": 19,
+    "Cantidad": 0
+  },
+  "Esparragos": {
+    "Gondola": 4,
+    "Nodo": 0,
+    "Cantidad": 12
+  },
+  "Espinaca": {
+    "Gondola": 2,
+    "Nodo": 3,
+    "Cantidad": 2
+  },
+  "Pimenton": {
+    "Gondola": 0,
+    "Nodo": 17,
+    "Cantidad": 6
+  },
+  "Coliflor": {
+    "Gondola": 1,
+    "Nodo": 16,
+    "Cantidad": 14
+  },
+  "Apio": {
+    "Gondola": 6,
+    "Nodo": 14,
+    "Cantidad": 17
+  },
+  "Pepino": {
+    "Gondola": 1,
+    "Nodo": 20,
+    "Cantidad": 4
+  },
+  "Cebolla": {
+    "Gondola": 4,
+    "Nodo": 7,
+    "Cantidad": 1
+  },
+  "Ajo": {
+    "Gondola": 5,
+    "Nodo": 8,
+    "Cantidad": 4
+  },
+  "Calabaza": {
+    "Gondola": 4,
+    "Nodo": 6,
+    "Cantidad": 18
+  },
+  "Berenjena": {
+    "Gondola": 0,
+    "Nodo": 16,
+    "Cantidad": 7
+  },
+  "Avena": {
+    "Gondola": 3,
+    "Nodo": 18,
+    "Cantidad": 9
+  },
+  "Salvado de avena": {
+    "Gondola": 1,
+    "Nodo": 15,
+    "Cantidad": 2
+  },
+  "Arroz integral": {
+    "Gondola": 3,
+    "Nodo": 27,
+    "Cantidad": 1
+  },
+  "Pasta integral": {
+    "Gondola": 5,
+    "Nodo": 6,
+    "Cantidad": 13
+  },
+  "Yuca": {
+    "Gondola": 3,
+    "Nodo": 18,
+    "Cantidad": 16
+  },
+  "Papa": {
+    "Gondola": 1,
+    "Nodo": 16,
+    "Cantidad": 20
+  },
+  "Frijol": {
+    "Gondola": 4,
+    "Nodo": 6,
+    "Cantidad": 8
+  },
+  "Lentejas": {
+    "Gondola": 7,
+    "Nodo": 24,
+    "Cantidad": 20
+  },
+  "Garbanzos": {
+    "Gondola": 5,
+    "Nodo": 7,
+    "Cantidad": 6
+  },
+  "Almendras": {
+    "Gondola": 7,
+    "Nodo": 25,
+    "Cantidad": 12
+  },
+  "Nueces": {
+    "Gondola": 7,
+    "Nodo": 22,
+    "Cantidad": 6
+  },
+  "Mani": {
+    "Gondola": 2,
+    "Nodo": 5,
+    "Cantidad": 10
+  },
+  "Cafe": {
+    "Gondola": 6,
+    "Nodo": 23,
+    "Cantidad": 8
+  },
+  "Te Verde": {
+    "Gondola": 2,
+    "Nodo": 4,
+    "Cantidad": 9
+  },
+  "Aromaticas": {
+    "Gondola": 4,
+    "Nodo": 0,
+    "Cantidad": 18
+  }
+}
