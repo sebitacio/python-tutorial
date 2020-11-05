@@ -1,0 +1,17 @@
+instalar pyinstaller
+pip install pyinstaller
+
+una vez en el escritorio
+se usa el comando pyinstaller
+
+pyinstaller calculadora.py
+
+
+para ejecutar sin la consola detras se usa el comando
+pyinstaller --windowed calculadora.py
+
+instalar sin todos los archivos detras permitiendo ejecutar si python instalado
+pyinstaller --windowed --onefile calculadora.py
+
+para agregar icono se debe tener un icono en la misma carpeta  y usar
+pyinstaller --windowed --onefile --icon=./icono.ico calculadora.py
